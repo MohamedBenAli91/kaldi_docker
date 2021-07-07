@@ -1,0 +1,15 @@
+ - Manage you kaldi container with stat/stop docker commands
+ - Mohamed BEN ALI -- R&D LINAGORA
+ 
+
+************************
+
+docker stop docker_kaldi
+
+*************************
+
+docker start docker_kaldi
+
+*************************
+
+
